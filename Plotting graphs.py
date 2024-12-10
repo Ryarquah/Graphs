@@ -1,7 +1,7 @@
 #Exercise 1
 #Plotting a linear graph
-#The table below shows the number of days of pigs growth and their corresponding weight mesured in pounds within the 20 days period
-#Make sure that you already have tabulate, matplotlib, numpy and pandas installed already. Use pip to install them if you have not.
+#The table below shows the number of days of pigs' growth and their corresponding weight measured in pounds within 20 days
+#Make sure you already have tabulate, matplotlib, numpy and pandas installed. You can use pip to install them if you haven't done so.
 from tabulate import tabulate
 import matplotlib.pyplot as plt
 import numpy as np
